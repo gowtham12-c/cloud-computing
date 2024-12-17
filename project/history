@@ -1,0 +1,200 @@
+sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim
+   73  touch test.txt
+   74  sudo apt  install vim
+   75  touch test.txt
+   76  vim test.txt
+   77  vim
+   78  cat > file.txt
+   79  cd /
+   80  sudo user add yuva
+   81  sudo passwd yuva
+   82  Admin@123
+   83  cd /
+   84  sudo useradd gow
+   85  su gow
+   86  sudo passwd gow
+   87  cat /etc/passwd
+   88  su gow
+   89  cd /
+   90  ls
+   91  cd home
+   92  ls
+   93  cd administrator
+   94  sudo userdel gow
+   95  sudo userdel -f gow
+   96  cat
+   97  cat /etc/passwd
+   98  v[
+   99  nano script.sh
+  100  cd \
+  101  cd /
+  102  ls
+  103  cd home
+  104  ls
+  105  cd administrator
+  106  ls
+  107  cd desktop
+  108  ls
+  109  cd /
+  110  ls
+  111  cd home
+  112  ls
+  113  cd administrstor
+  114  cd administrator
+  115  ls
+  116  cd Desktop
+  117  mkdir_shared_files
+  118  mkdir shares_files
+  119  touch employees
+  120  touch managers
+  121  touch clients
+  122  cat > reports
+  123  mkdir shares_files
+  124  mkdir shared
+  125  mkdir shared_files
+  126  mk
+  127  touch shared_files
+  128  touch employees
+  129  touch managers
+  130  touch clients
+  131  cd ..
+  132  cd Desktop
+  133  cd shared_files
+  134  mkdir employees
+  135  mkdir managers
+  136  mkdir clients
+  137  my shered_files to employees
+  138  cd..
+  139  cd /
+  140  ls
+  141  cd home
+  142  ls
+  143  cd administrator
+  144  ls
+  145  cd Desktop
+  146  mksir cloud computing project1
+  147  mkdir project1
+  148  history
+  149  cd /
+  150  ls
+  151  pwd
+  152  cd
+  153  history
+  154  cd
+  155  ls
+  156  ls'
+cs
+
+  157  cd
+  158  history
+  159  cd DESKTOP
+  160  cd Desktop
+  161  ls
+  162  cd
+  163  ls
+  164  cd file
+  165  cd /
+  166  cd/
+  167  ls
+  168  history
+  169  ls
+  170  ;ls
+  171  history
+  172  mkdir
+  173  cd home
+  174  ls
+  175  mkdir
+  176  ls
+  177  cd
+  178  cd /
+  179  cd/
+  180  ls
+  181  cd 
+  182  mkdir
+  183  ls
+  184  cd /
+  185  cd 
+  186  history
+  187  cd
+  188  ls
+  189  mkdir
+  190  ls
+  191  mkdir
+  192  ls
+  193  history
+  194  clear
+  195  history
+administrator@administrator-Lenovo-V130-14IKB:~$ 
+
+
